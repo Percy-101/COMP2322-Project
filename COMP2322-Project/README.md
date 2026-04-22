@@ -16,7 +16,7 @@ Requirements:
 -Step 4: When server connected:\
 &emsp; &emsp; &emsp; Web server running on http://127.0.0.1:8080\
 &emsp; &emsp; &emsp; Document root: ./www\
-&emsp; &emsp; &emsp; Press Ctrl+C to stop
+
 
 ## To test the server
 ### Open web browser and enter url below:
