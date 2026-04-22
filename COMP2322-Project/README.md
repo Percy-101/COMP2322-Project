@@ -14,8 +14,8 @@ Requirements:
 &emsp; &emsp; &emsp; python server.py
 
 -Step 4: When server connected:\
-&emsp; &emsp; &emsp; Web server running on http://127.0.0.1:8080\
-&emsp; &emsp; &emsp; Document root: ./www\
+&emsp; &emsp; &emsp; Web server running on http://127.0.0.1:8080 \
+&emsp; &emsp; &emsp; Document root: ./www
 
 
 ## To test the server
